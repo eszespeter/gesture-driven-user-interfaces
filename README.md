@@ -32,14 +32,13 @@ __Chapter 2__
 	2.2 Hearing
 	2.3 Smell & Taste
 	2.4 Haptics
-	2.5 Overview
-		2.5.1 Biology
-		2.5.2 Involvement in HCI
-			2.5.2.1 Input
-			2.5.2.2 Feedback
-		2.5.3 Artistic take
-		2.5.4 Everyday use/object
-	2.6 Synesthesia
+		2.X.1 Biology
+		2.X.2 Involvement in HCI
+			2.X.2.1 Input
+			2.X.2.2 Feedback
+		2.X.3 Artistic take
+		2.X.4 Everyday use/object
+	2.5 Synesthesia
 
 __Chapter 3__
 3.0 Artistic work
@@ -54,7 +53,7 @@ __Chapter 3__
 
 __Chapter 4__
 4.0 Conclusion
-	4.1 Change of HCI
+	4.1 Changes in HCI
 		4.1.1 Interaction
 			4.1.1.1 Input
 			4.1.1.2 Output
@@ -66,3 +65,6 @@ __Chapter 4__
 	4.3 New ways of interaction
 		4.3.1 Physical and digital
 		4.3.2 Digital and Physical
+
+***
+__notes__
